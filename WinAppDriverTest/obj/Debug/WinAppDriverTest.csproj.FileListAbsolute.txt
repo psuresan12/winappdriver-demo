@@ -1,0 +1,17 @@
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\WinAppDriverTest.exe.config
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\WinAppDriverTest.exe
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\WinAppDriverTest.pdb
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\appium-dotnet-driver.dll
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\Castle.Core.dll
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\WebDriver.dll
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\WebDriver.Support.dll
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\appium-dotnet-driver.xml
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\Castle.Core.xml
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\WebDriver.xml
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\bin\Debug\WebDriver.Support.xml
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\obj\Debug\WinAppDriverTest.csproj.CopyComplete
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\obj\Debug\WinAppDriverTest.exe
+C:\Users\prataps\source\repos\WinAppDriverTest\WinAppDriverTest\obj\Debug\WinAppDriverTest.pdb
